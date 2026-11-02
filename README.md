@@ -2,13 +2,29 @@
 
 # 👋 Hi, I'm Ashkan
 
-### 🇮🇷 Builder from Iran — I make tools for live market data and a freer internet
-
-*ساختن ابزارهایی برای نرخ زنده‌ی بازار و اینترنت آزاد* 🛠
+🌐 **Language / زبان:** [English](#english) · [فارسی](#persian)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@A5HKANI-2CA5E0?logo=telegram&logoColor=white)](https://t.me/A5HKANI)
 [![Nerkh — Live Rates](https://img.shields.io/badge/💱_Nerkh-Live_Rates-00b894)](https://ashollii.github.io/Nerkh/)
 [![Status](https://img.shields.io/badge/🟢_Services-Status_Page-0984e3)](https://ashollii.github.io/Status/)
+
+</div>
+
+---
+
+<a name="english"></a>
+
+## English
+
+<img src="assets/iran-lion-sun.png" width="26" alt="Lion and Sun flag of Iran"> I'm a developer and automation builder from **Iran**. I build Telegram bots, small web tools and self-running pipelines — live-data dashboards, subscription tools and bridges between platforms. If a task repeats, I automate it: almost everything below runs itself.
+
+<a name="persian"></a>
+
+## فارسی
+
+<div dir="rtl" align="right">
+
+<img src="assets/iran-lion-sun.png" width="26" alt="پرچم شیر و خورشید ایران"> من **اشکان** هستم؛ توسعه‌دهنده و سازنده‌ی ابزارهای اتوماسیون از **ایران**. ربات‌های تلگرامی، ابزارهای کوچک وب و خط‌های خودکار می‌سازم؛ از داشبوردهای داده‌ی زنده و ابزارهای اشتراک گرفته تا پل بین پلتفرم‌ها. هر کاری که تکرار بشه رو می‌سپارم به اتوماسیون؛ تقریباً همه‌ی چیزهایی که پایین می‌بینی، خودشون کار می‌کنن.
 
 </div>
 
