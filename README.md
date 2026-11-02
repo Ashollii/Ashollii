@@ -30,12 +30,12 @@ Behind the scenes, a small fleet of Telegram bots keeps all of this running: a l
 <!-- RATES:START -->
 | | Rate (Toman) |
 |---|---|
-| 💵 US Dollar | 272,485 |
-| 💶 Euro | 304,500 |
+| 💵 US Dollar | 272,514 |
+| 💶 Euro | 304,200 |
 | ✨ Gold 18k (per gram) | 25,721,410 |
 | 🪙 Emami Coin | 261,000,000 |
 
-<sub>⏰ Last update: 2026-11-01 23:55:59 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
+<sub>⏰ Last update: 2026-11-02 04:01:41 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
 <!-- RATES:END -->
 
 ## 🧰 Toolbox
