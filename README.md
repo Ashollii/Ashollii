@@ -1,8 +1,8 @@
+<img src="assets/banner.png" alt="Ashkan — building bots, tools and automation" width="100%">
+
 <div align="center">
 
-# 👋 Hi, I'm Ashkan
-
-🌐 **Language / زبان:** [English](#english) · [فارسی](#persian)
+🌐 **English** · [فارسی](https://github.com/Ashollii/Ashollii/blob/main/README.fa.md)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@A5HKANI-2CA5E0?logo=telegram&logoColor=white)](https://t.me/A5HKANI)
 [![Nerkh — Live Rates](https://img.shields.io/badge/💱_Nerkh-Live_Rates-00b894)](https://ashollii.github.io/Nerkh/)
@@ -10,51 +10,75 @@
 
 </div>
 
----
+## 👋 Hi, I'm Ashkan
 
-<a name="english"></a>
+<img src="assets/iran-lion-sun.png" width="26" alt="Lion and Sun flag of Iran"> I'm a developer from **Iran** who builds **Telegram bots, small web tools and automation**. Everything here runs by itself — if a task repeats, a workflow does it.
 
-## English
+**New to GitHub?** No problem: just click any picture below to visit that project, and use the ▶ links to open the live sites.
 
-<img src="assets/iran-lion-sun.png" width="26" alt="Lion and Sun flag of Iran"> I'm a developer and automation builder from **Iran**. I build Telegram bots, small web tools and self-running pipelines — live-data dashboards, subscription tools and bridges between platforms. If a task repeats, I automate it: almost everything below runs itself.
+## 🚀 My projects
 
-<a name="persian"></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Ashollii/Nerkh"><img src="assets/card-nerkh.png" alt="Nerkh — live market rates" width="100%"></a><br>
+<b>💱 Nerkh — today's prices at a glance</b><br>
+Dollar, euro, gold and coin prices in Iran, with history charts. Always up to date.<br>
+<a href="https://ashollii.github.io/Nerkh/"><b>▶ Open the live site</b></a> · <a href="https://github.com/Ashollii/Nerkh">Project page</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Ashollii/SUB"><img src="assets/card-sub.png" alt="SUB — merged VPN subscription" width="100%"></a><br>
+<b>🔐 SUB — one clean VPN subscription</b><br>
+Several public sources combined into a single tidy subscription that refreshes itself.<br>
+<a href="https://github.com/Ashollii/SUB"><b>▶ Get the subscription</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Ashollii/SubHarvest"><img src="assets/card-subharvest.png" alt="SubHarvest — config harvester" width="100%"></a><br>
+<b>🌾 SubHarvest — fresh configs every hour</b><br>
+Collects V2Ray configs and Telegram proxies from public channels and republishes them, ready to import.<br>
+<a href="https://github.com/Ashollii/SubHarvest"><b>▶ See the latest harvest</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Ashollii/Status"><img src="assets/card-status.png" alt="Status — service status page" width="100%"></a><br>
+<b>🟢 Status — is everything up?</b><br>
+A simple board that checks all my sites and bots every 30 minutes.<br>
+<a href="https://ashollii.github.io/Status/"><b>▶ Open the live board</b></a> · <a href="https://github.com/Ashollii/Status">Project page</a>
+</td>
+</tr>
+</table>
 
-## فارسی
+## 📊 My GitHub in numbers
 
-<div dir="rtl" align="right">
+<div align="center">
 
-<img src="assets/iran-lion-sun.png" width="26" alt="پرچم شیر و خورشید ایران"> من **اشکان** هستم؛ توسعه‌دهنده و سازنده‌ی ابزارهای اتوماسیون از **ایران**. ربات‌های تلگرامی، ابزارهای کوچک وب و خط‌های خودکار می‌سازم؛ از داشبوردهای داده‌ی زنده و ابزارهای اشتراک گرفته تا پل بین پلتفرم‌ها. هر کاری که تکرار بشه رو می‌سپارم به اتوماسیون؛ تقریباً همه‌ی چیزهایی که پایین می‌بینی، خودشون کار می‌کنن.
+<img src="https://github-readme-stats.vercel.app/api?username=Ashollii&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
 
 </div>
 
----
+<details>
+<summary><b>💱 Live market rates — click to open (auto-updated hourly)</b></summary>
 
-## 🚀 What I build
-
-| Project | What it does |
-|---|---|
-| 💱 **[Nerkh](https://github.com/Ashollii/Nerkh)** | **Live Iranian market rates** — dollar, euro, gold & coins with history charts, coin-bubble analysis and a live crypto board. Synced from Telegram around the clock. 🌐 [ashollii.github.io/Nerkh](https://ashollii.github.io/Nerkh/) |
-| 🔐 **[SUB](https://github.com/Ashollii/SUB)** | **A merged VPN subscription** — several public sources combined, deduplicated and renamed into one clean subscription that refreshes itself every few hours. |
-| 🌾 **[SubHarvest](https://github.com/Ashollii/SubHarvest)** | **Config harvester** — pulls fresh V2Ray configs & MTProto proxies from 23 public Telegram channels every hour and republishes them as ready-to-import files. Pure GitHub Actions, no server. |
-| 🟢 **[Status](https://github.com/Ashollii/Status)** | **Service status page** — watches all my sites, data feeds and bots every 30 minutes and posts the board live. 🌐 [ashollii.github.io/Status](https://ashollii.github.io/Status/) |
-
-Behind the scenes, a small fleet of Telegram bots keeps all of this running: a live rates bot, a subscription manager, a status bot and a Telegram↔Bale bridge — self-healing, watched every few minutes, and quietly fixed before anyone notices.
-
-## 💱 Live market rates <sub>(auto-updated hourly from Nerkh)</sub>
+<br>
 
 <!-- RATES:START -->
 | | Rate (Toman) |
 |---|---|
-| 💵 US Dollar | 272,684 |
-| 💶 Euro | 305,600 |
-| ✨ Gold 18k (per gram) | 25,813,750 |
+| 💵 US Dollar | 272,691 |
+| 💶 Euro | 305,300 |
+| ✨ Gold 18k (per gram) | 25,774,500 |
 | 🪙 Emami Coin | 263,500,000 |
 
-<sub>⏰ Last update: 2026-11-02 21:41:10 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
+<sub>⏰ Last update: 2026-11-02 22:47:56 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
 <!-- RATES:END -->
 
-## 🧰 Toolbox
+</details>
+
+<details>
+<summary><b>🧰 Toolbox &amp; behind the scenes — click to open</b></summary>
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -62,6 +86,10 @@ Behind the scenes, a small fleet of Telegram bots keeps all of this running: a l
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?logo=telegram&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github&logoColor=white)
+
+Behind the scenes, a small fleet of Telegram bots keeps all of this running: a live rates bot, a subscription manager, a status bot and a Telegram↔Bale bridge — self-healing, watched every few minutes, and quietly fixed before anyone notices.
+
+</details>
 
 ## 📌 Right now
 
