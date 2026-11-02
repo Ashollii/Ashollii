@@ -52,6 +52,50 @@ def build_table(spec, m):
     return "\n".join(lines)
 
 
+HARVEST_FILES = {
+    "README.md": ("🌾 **SubHarvest pulse** — **{c}** configs & **{p}** proxies "
+                  "ready to use{when}"),
+    "README.fa.md": ("🌾 **نبض ساب‌هاروست** — **{c}** کانفیگ و **{p}** پروکسی "
+                     "آماده‌ی استفاده{when}"),
+}
+HARVEST_WHEN = {
+    "README.md": " · last harvest: {t} (Tehran)",
+    "README.fa.md": " · آخرین برداشت: {t} (تهران)",
+}
+SUBHARVEST_RAW = ("https://raw.githubusercontent.com/Ashollii/SubHarvest/main/"
+                  "output/{name}.txt")
+SUBHARVEST_COMMITS = ("https://api.github.com/repos/Ashollii/SubHarvest/"
+                      "commits?per_page=1")
+
+
+def fetch_text(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "profile-rates/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def harvest_line(path):
+    try:
+        configs = fetch_text(SUBHARVEST_RAW.format(name="configs"))
+        proxies = fetch_text(SUBHARVEST_RAW.format(name="proxies"))
+        c = sum(1 for ln in configs.splitlines() if "://" in ln)
+        p = sum(1 for ln in proxies.splitlines() if "://" in ln)
+    except Exception:
+        return None
+    when = ""
+    try:
+        from datetime import datetime, timezone
+        from zoneinfo import ZoneInfo
+        data = json.loads(fetch_text(SUBHARVEST_COMMITS))
+        stamp = data[0]["commit"]["committer"]["date"]
+        t = (datetime.fromisoformat(stamp.replace("Z", "+00:00"))
+             .astimezone(ZoneInfo("Asia/Tehran")).strftime("%Y-%m-%d %H:%M"))
+        when = HARVEST_WHEN[path].format(t=t)
+    except Exception:
+        when = ""
+    return HARVEST_FILES[path].format(c=f"{c:,}", p=f"{p:,}", when=when)
+
+
 def main():
     req = urllib.request.Request(MARKET_URL,
                                  headers={"User-Agent": "profile-rates/1.0"})
@@ -68,6 +112,11 @@ def main():
         new = re.sub(r"(<!-- RATES:START -->).*?(<!-- RATES:END -->)",
                      lambda mo: f"{mo.group(1)}\n{table}\n{mo.group(2)}",
                      text, flags=re.S)
+        line = harvest_line(path)
+        if line:
+            new = re.sub(r"(<!-- HARVEST:START -->).*?(<!-- HARVEST:END -->)",
+                         lambda mo: f"{mo.group(1)}\n{line}\n{mo.group(2)}",
+                         new, flags=re.S)
         if new != text:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(new)
