@@ -6,7 +6,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@A5HKANI-2CA5E0?logo=telegram&logoColor=white)](https://t.me/A5HKANI)
 [![Nerkh — Live Rates](https://img.shields.io/badge/💱_Nerkh-Live_Rates-00b894)](https://ashollii.github.io/Nerkh/)
-[![Status](https://img.shields.io/badge/🟢_Services-Status_Page-0984e3)](https://ashollii.github.io/Status/)
 
 </div>
 
@@ -20,31 +19,23 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/Ashollii/Nerkh"><img src="assets/card-nerkh.png" alt="Nerkh — live market rates" width="100%"></a><br>
 <b>💱 Nerkh — today's prices at a glance</b><br>
 Dollar, euro, gold and coin prices in Iran, with history charts. Always up to date.<br>
 <a href="https://ashollii.github.io/Nerkh/"><b>▶ Open the live site</b></a> · <a href="https://github.com/Ashollii/Nerkh">Project page</a>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/Ashollii/SUB"><img src="assets/card-sub.png" alt="SUB — merged VPN subscription" width="100%"></a><br>
 <b>🔐 SUB — one clean VPN subscription</b><br>
 Several public sources combined into a single tidy subscription that refreshes itself.<br>
 <a href="https://github.com/Ashollii/SUB"><b>▶ Get the subscription</b></a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/Ashollii/SubHarvest"><img src="assets/card-subharvest.png" alt="SubHarvest — config harvester" width="100%"></a><br>
 <b>🌾 SubHarvest — fresh configs every hour</b><br>
 Collects V2Ray configs and Telegram proxies from public channels and republishes them, ready to import.<br>
 <a href="https://github.com/Ashollii/SubHarvest"><b>▶ See the latest harvest</b></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Ashollii/Status"><img src="assets/card-status.png" alt="Status — service status page" width="100%"></a><br>
-<b>🟢 Status — is everything up?</b><br>
-A simple board that checks all my sites and bots every 30 minutes.<br>
-<a href="https://ashollii.github.io/Status/"><b>▶ Open the live board</b></a> · <a href="https://github.com/Ashollii/Status">Project page</a>
 </td>
 </tr>
 </table>
@@ -87,7 +78,7 @@ A simple board that checks all my sites and bots every 30 minutes.<br>
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?logo=telegram&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github&logoColor=white)
 
-Behind the scenes, a small fleet of Telegram bots keeps all of this running: a live rates bot, a subscription manager, a status bot and a Telegram↔Bale bridge — self-healing, watched every few minutes, and quietly fixed before anyone notices.
+Behind the scenes, a small fleet of Telegram bots keeps all of this running: a live rates bot, a subscription manager and a Telegram↔Bale bridge — self-healing, watched every few minutes, and quietly fixed before anyone notices.
 
 </details>
 

@@ -6,7 +6,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@A5HKANI-2CA5E0?logo=telegram&logoColor=white)](https://t.me/A5HKANI)
 [![Nerkh — Live Rates](https://img.shields.io/badge/💱_Nerkh-Live_Rates-00b894)](https://ashollii.github.io/Nerkh/)
-[![Status](https://img.shields.io/badge/🟢_Services-Status_Page-0984e3)](https://ashollii.github.io/Status/)
 
 </div>
 
@@ -24,31 +23,23 @@
 
 <table>
 <tr>
-<td width="50%" valign="top" dir="rtl" align="right">
+<td width="33%" valign="top" dir="rtl" align="right">
 <a href="https://github.com/Ashollii/Nerkh"><img src="assets/card-nerkh.png" alt="نرخ — قیمت‌های زنده بازار" width="100%"></a><br>
 <b>💱 نرخ — قیمت‌های امروز در یک نگاه</b><br>
 قیمت دلار، یورو، طلا و سکه در ایران، همراه با نمودار؛ همیشه به‌روز.<br>
 <a href="https://ashollii.github.io/Nerkh/"><b>▶ مشاهده‌ی سایت</b></a> · <a href="https://github.com/Ashollii/Nerkh">صفحه‌ی پروژه</a>
 </td>
-<td width="50%" valign="top" dir="rtl" align="right">
+<td width="33%" valign="top" dir="rtl" align="right">
 <a href="https://github.com/Ashollii/SUB"><img src="assets/card-sub.png" alt="SUB — اشتراک وی‌پی‌ان" width="100%"></a><br>
 <b>🔐 اشتراک — یک اشتراک وی‌پی‌ان تمیز</b><br>
 چند منبع عمومی با هم ترکیب می‌شن و یه اشتراک مرتب می‌سازن که خودش تازه می‌مونه.<br>
 <a href="https://github.com/Ashollii/SUB"><b>▶ دریافت اشتراک</b></a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" dir="rtl" align="right">
+<td width="33%" valign="top" dir="rtl" align="right">
 <a href="https://github.com/Ashollii/SubHarvest"><img src="assets/card-subharvest.png" alt="ساب‌هاروست — جمع‌آوری کانفیگ" width="100%"></a><br>
 <b>🌾 ساب‌هاروست — کانفیگ تازه، هر ساعت</b><br>
 از کانال‌های عمومی تلگرام کانفیگ و پروکسی جمع می‌کنه و آماده‌ی استفاده منتشر می‌کنه.<br>
 <a href="https://github.com/Ashollii/SubHarvest"><b>▶ دیدن آخرین برداشت</b></a>
-</td>
-<td width="50%" valign="top" dir="rtl" align="right">
-<a href="https://github.com/Ashollii/Status"><img src="assets/card-status.png" alt="وضعیت — صفحه وضعیت سرویس‌ها" width="100%"></a><br>
-<b>🟢 وضعیت — همه‌چیز سالمه؟</b><br>
-یه صفحه‌ی ساده که هر نیم ساعت همه‌ی سایت‌ها و ربات‌هام رو چک می‌کنه.<br>
-<a href="https://ashollii.github.io/Status/"><b>▶ مشاهده‌ی صفحه‌ی وضعیت</b></a> · <a href="https://github.com/Ashollii/Status">صفحه‌ی پروژه</a>
 </td>
 </tr>
 </table>
@@ -97,7 +88,7 @@
 
 <div dir="rtl" align="right">
 
-پشت صحنه، چند ربات تلگرامی همه‌ی این‌ها رو سر پا نگه می‌دارن: ربات نرخ زنده، ربات مدیریت اشتراک، ربات وضعیت و پل تلگرام↔بله؛ خودشون خرابی رو تعمیر می‌کنن و هر چند دقیقه یه بار چک می‌شن، قبل از اینکه کسی متوجه بشه.
+پشت صحنه، چند ربات تلگرامی همه‌ی این‌ها رو سر پا نگه می‌دارن: ربات نرخ زنده، ربات مدیریت اشتراک و پل تلگرام↔بله؛ خودشون خرابی رو تعمیر می‌کنن و هر چند دقیقه یه بار چک می‌شن، قبل از اینکه کسی متوجه بشه.
 
 </div>
 
