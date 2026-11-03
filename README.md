@@ -64,12 +64,12 @@ Collects V2Ray configs and Telegram proxies from public channels and republishes
 <!-- RATES:START -->
 | | Rate (Toman) |
 |---|---|
-| 💵 US Dollar | 272,684 |
-| 💶 Euro | 305,200 |
+| 💵 US Dollar | 272,713 |
+| 💶 Euro | 305,100 |
 | ✨ Gold 18k (per gram) | 25,774,500 |
 | 🪙 Emami Coin | 263,500,000 |
 
-<sub>⏰ Last update: 2026-11-03 00:03:26 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
+<sub>⏰ Last update: 2026-11-03 05:00:33 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
 <!-- RATES:END -->
 
 </details>
