@@ -42,7 +42,7 @@ Collects V2Ray configs and Telegram proxies from public channels and republishes
 <div align="center">
 
 <!-- HARVEST:START -->
-🌾 **SubHarvest pulse** — **378** configs & **427** proxies ready to use · last harvest: 2026-11-15 05:22 (Tehran)
+🌾 **SubHarvest pulse** — **371** configs & **457** proxies ready to use · last harvest: 2026-11-15 12:50 (Tehran)
 <!-- HARVEST:END -->
 
 </div>
@@ -64,12 +64,12 @@ Collects V2Ray configs and Telegram proxies from public channels and republishes
 <!-- RATES:START -->
 | | Rate (Toman) |
 |---|---|
-| 💵 US Dollar | 268,900 |
-| 💶 Euro | 297,250 |
-| ✨ Gold 18k (per gram) | 24,817,600 |
-| 🪙 Emami Coin | 252,695,000 |
+| 💵 US Dollar | 265,900 |
+| 💶 Euro | 293,510 |
+| ✨ Gold 18k (per gram) | 24,561,400 |
+| 🪙 Emami Coin | 250,505,000 |
 
-<sub>⏰ Last update: 2026-11-15 11:17:43 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
+<sub>⏰ Last update: 2026-11-15 18:48:25 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
 <!-- RATES:END -->
 
 </details>
