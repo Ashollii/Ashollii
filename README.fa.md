@@ -23,23 +23,31 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" dir="rtl" align="right">
+<td width="50%" valign="top" dir="rtl" align="right">
 <a href="https://github.com/Ashollii/Nerkh"><img src="assets/card-nerkh.png" alt="نرخ — قیمت‌های زنده بازار" width="100%"></a><br>
 <b>💱 نرخ — قیمت‌های امروز در یک نگاه</b><br>
 قیمت دلار، یورو، طلا و سکه در ایران، همراه با نمودار؛ همیشه به‌روز.<br>
 <a href="https://ashollii.github.io/Nerkh/"><b>▶ مشاهده‌ی سایت</b></a> · <a href="https://github.com/Ashollii/Nerkh">صفحه‌ی پروژه</a>
 </td>
-<td width="33%" valign="top" dir="rtl" align="right">
+<td width="50%" valign="top" dir="rtl" align="right">
 <a href="https://github.com/Ashollii/SUB"><img src="assets/card-sub.png" alt="SUB — اشتراک وی‌پی‌ان" width="100%"></a><br>
 <b>🔐 اشتراک — یک اشتراک وی‌پی‌ان تمیز</b><br>
 چند منبع عمومی با هم ترکیب می‌شن و یه اشتراک مرتب می‌سازن که خودش تازه می‌مونه.<br>
 <a href="https://github.com/Ashollii/SUB"><b>▶ دریافت اشتراک</b></a>
 </td>
-<td width="33%" valign="top" dir="rtl" align="right">
+</tr>
+<tr>
+<td width="50%" valign="top" dir="rtl" align="right">
 <a href="https://github.com/Ashollii/SubHarvest"><img src="assets/card-subharvest.png" alt="ساب‌هاروست — جمع‌آوری کانفیگ" width="100%"></a><br>
 <b>🌾 ساب‌هاروست — کانفیگ تازه، هر ساعت</b><br>
 از کانال‌های عمومی تلگرام کانفیگ و پروکسی جمع می‌کنه و آماده‌ی استفاده منتشر می‌کنه.<br>
 <a href="https://github.com/Ashollii/SubHarvest"><b>▶ دیدن آخرین برداشت</b></a>
+</td>
+<td width="50%" valign="top" dir="rtl" align="right">
+<a href="https://github.com/Ashollii/NetDoctor"><img src="assets/card-netdoctor.png" alt="دکتر نت — تشخیص مشکل اینترنت" width="100%"></a><br>
+<b>🩺 دکتر نت — چرا وصل نمی‌شه؟</b><br>
+اینترنت، DNS و برنامه‌هایی که باز نمی‌شن رو تست می‌کنه و ساده می‌گه مشکل از کجاست.<br>
+<a href="https://ashollii.github.io/NetDoctor/"><b>▶ مشاهده‌ی سایت</b></a> · <a href="https://github.com/Ashollii/NetDoctor">صفحه‌ی پروژه</a>
 </td>
 </tr>
 </table>

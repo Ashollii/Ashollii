@@ -19,23 +19,31 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/Ashollii/Nerkh"><img src="assets/card-nerkh.png" alt="Nerkh — live market rates" width="100%"></a><br>
 <b>💱 Nerkh — today's prices at a glance</b><br>
 Dollar, euro, gold and coin prices in Iran, with history charts. Always up to date.<br>
 <a href="https://ashollii.github.io/Nerkh/"><b>▶ Open the live site</b></a> · <a href="https://github.com/Ashollii/Nerkh">Project page</a>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/Ashollii/SUB"><img src="assets/card-sub.png" alt="SUB — merged VPN subscription" width="100%"></a><br>
 <b>🔐 SUB — one clean VPN subscription</b><br>
 Several public sources combined into a single tidy subscription that refreshes itself.<br>
 <a href="https://github.com/Ashollii/SUB"><b>▶ Get the subscription</b></a>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/Ashollii/SubHarvest"><img src="assets/card-subharvest.png" alt="SubHarvest — config harvester" width="100%"></a><br>
 <b>🌾 SubHarvest — fresh configs every hour</b><br>
 Collects V2Ray configs and Telegram proxies from public channels and republishes them, ready to import.<br>
 <a href="https://github.com/Ashollii/SubHarvest"><b>▶ See the latest harvest</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Ashollii/NetDoctor"><img src="assets/card-netdoctor.png" alt="NetDoctor — internet diagnosis" width="100%"></a><br>
+<b>🩺 NetDoctor — why won't it connect?</b><br>
+Tests your internet, DNS and the apps that won't open, then tells you plainly where the problem is.<br>
+<a href="https://ashollii.github.io/NetDoctor/"><b>▶ Open the live site</b></a> · <a href="https://github.com/Ashollii/NetDoctor">Project page</a>
 </td>
 </tr>
 </table>
