@@ -50,7 +50,7 @@ Tests your internet, DNS and the apps that won't open, then tells you plainly wh
 <div align="center">
 
 <!-- HARVEST:START -->
-🌾 **SubHarvest pulse** — **441** configs & **413** proxies ready to use · last harvest: 2026-11-19 16:29 (Tehran)
+🌾 **SubHarvest pulse** — **427** configs & **445** proxies ready to use · last harvest: 2026-11-20 00:59 (Tehran)
 <!-- HARVEST:END -->
 
 </div>
@@ -77,7 +77,7 @@ Tests your internet, DNS and the apps that won't open, then tells you plainly wh
 | ✨ Gold 18k (per gram) | 24,286,700 |
 | 🪙 Emami Coin | 249,590,000 |
 
-<sub>⏰ Last update: 2026-11-19 23:49:07 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
+<sub>⏰ Last update: 2026-11-20 05:18:09 (Tehran) · Source: [Nerkh](https://github.com/Ashollii/Nerkh)</sub>
 <!-- RATES:END -->
 
 </details>
